@@ -1,0 +1,11 @@
+{
+  "sph_start": -6.00,
+  "sph_step": 0.25,
+  "sph_max": 2,
+  "cyl_start": 0.25,
+  "cyl_step": 0.5,
+  "cyl_max": 3,
+  "axis_start": 10,
+  "axis_step": 10,
+  "axis_max": 180
+}
